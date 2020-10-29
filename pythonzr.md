@@ -72,7 +72,7 @@ req_data = json.dumps(text).encode('UTF-8')
 
 ## 3. windows 10 环境下实现定时执行
 
-![image](https://github.com/xietong1027/blockChain/blob/master/windows%E5%AE%9A%E6%97%B6%E6%89%A7%E8%A1%8C.png)
+![image](https://github.com/xietong1027/text/blob/master/windows%E5%AE%9A%E6%97%B6%E6%89%A7%E8%A1%8C.png)
 
 | 程序或脚本（P）     | 点击<kbd>浏览（R）</kbd>                                     |
 | ------------------- | ------------------------------------------------------------ |
@@ -83,11 +83,11 @@ req_data = json.dumps(text).encode('UTF-8')
 
 ### 1. python3
 
-![image](https://github.com/xietong1027/blockChain/blob/master/2.png)
+![image](https://github.com/xietong1027/text/blob/master/2.png)
 
 ### 2.钉钉端
 
-![image](https://github.com/xietong1027/blockChain/blob/master/1.png)
+![image](https://github.com/xietong1027/text/blob/master/1.png)
 
 ## 4.完整程序代码
 
